@@ -6,21 +6,21 @@
 
     const mulheres = [
         {
-            nome: 'Alina Melo',
+            nome: 'Pamela teste 1',
             imagem: 'https://github.com/simaraconceicao.png',
-            minibio: 'Gerente da gente'
+            minibio: 'Dev junior'
 
         },
         {
-            nome: 'Alina Melo 1',
+            nome: 'Pamela teste 2',
             imagem: ' ',
-            minibio: 'Gerente da gente 1'
+            minibio: 'Dev pleno'
 
         },
         {
-            nome: 'Alina Melo 2',
+            nome: 'Pamela teste 3',
             imagem: ' ',
-            minibio: 'Gerente da gente 2'
+            minibio: 'Dev senior'
 
         }
     ]
